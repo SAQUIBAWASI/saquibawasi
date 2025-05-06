@@ -1,6 +1,6 @@
 # Hi 👋 I'm Saquiba Wasi
 
-💻 Full Stack Developer @ The Patterns Company Pvt. Ltd.  
+💻 Full Stack Developer   
 🎓 B.Tech in Computer Science & Engineering  
 🌐 Passionate about developing scalable web apps and web designing
 
@@ -45,6 +45,5 @@
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saquiba-wasi)  
-- 📂 [My Portfolio](https://your-portfolio-link.com)  
 - ✉️ saquibawasi@email.com
 
